@@ -1,0 +1,13 @@
+# 虛擬環境
+.venv/
+venv/
+
+# Python 快取
+__pycache__/
+*.pyc
+
+# 敏感金鑰設定檔
+.env
+
+# ChromaDB 本地向量資料庫快取
+data/chroma_db/.env
